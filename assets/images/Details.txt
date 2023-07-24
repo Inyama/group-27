@@ -1,0 +1,7 @@
+Sign up button color code	#11A643
+
+Footer Bg color			#0F256E
+
+Green ticks			#46EC7D
+
+Sign up/Login(Blue)		#15359D
